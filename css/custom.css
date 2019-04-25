@@ -1,0 +1,19 @@
+.navbar {
+  background: linear-gradient(to top, rgba(33, 33, 33, 0.85), rgba(33, 33, 33, 0.85));
+}
+
+div.header-bg {
+  background-image: url('../img/bg1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+li.nav-item a.nav-link:hover {
+  color: gold;
+}
+
+li.paper {
+  list-style-type: none;
+  margin-bottom: 15px;
+}
